@@ -34,6 +34,8 @@ Engineer specialized in **software and simulation development** using multiple *
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=000000&labelColor=ffffff)
 ![](https://img.shields.io/badge/-PyCharm-757575?logo=pycharm&logoColor=18A303&labelColor=000000)
 ![](https://img.shields.io/badge/-Python-FFD03D?logo=python)
+![](https://img.shields.io/badge/-TF-9FA7A0?logo=tensorflow)
+![](https://img.shields.io/badge/-Flask-9FA7A0?logo=flask)
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&labelColor=007ACC)
 ![](https://img.shields.io/badge/-C++-00599C?logo=cplusplus)
 ![](https://img.shields.io/badge/-C-283593?logo=c)
@@ -45,35 +47,35 @@ Engineer specialized in **software and simulation development** using multiple *
 ![](https://img.shields.io/badge/-EcoStruxure%20Power%20Design-FFFFFF?labelColor=45CA4B)
 
 
-<!--
+ 
 🧐 **Knowledge of:**<br>
 
-`Responsive web design`, `DOM`, `Styled Components`, `React Router`, `Enzyme`, `AXIOS`, `3rd Party API`, `Object-Oriented Programming`, `data structures and algorithms`.
+`Microwave Apps` `Power Electronics` `Electromagnetic Simulation` `Neural Networks` `Python Automation`
 
 
 🌍 **Deployment platforms:**<br>
 
-<img alt="Github Pages" width="20px" height="20px" src="https://techcrunch.com/wp-content/uploads/2010/07/github-logo.png" />![Github Pages](https://img.shields.io/badge/-Github%20Pages-000000?style=flat&logo=github-pages) ![Heroku](https://img.shields.io/badge/-Heroku-000000?style=flat&logo=heroku&labelColor=430098) ![Netlify](https://img.shields.io/badge/-Netlify-000000?style=flat&logo=netlify&labelColor=000000)
-
-
+<img alt="Github Pages" width="20px" height="20px" src="https://techcrunch.com/wp-content/uploads/2010/07/github-logo.png" />![Github Pages](https://img.shields.io/badge/-Github%20Pages-000000?style=flat&logo=github-pages)
+<!--
 🚩 **Highlights:** <br>
 &nbsp;<img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' style="margin-top: 10px;" width="20px" height="20px">&nbsp;&nbsp;&nbsp;<span>Arctic Code Vault Contributor</span>
-
+-->
 
 📚 **Working on:** <br>
 
-![Github Actions](https://img.shields.io/badge/-Github%20Actions-000000?style=flat&logo=github-actions&logoColor=2088FF&labelColor=ffffff)
-![Json Web Tokens](https://img.shields.io/badge/-Json%20Web%20Tokens-000000?style=flat&logo=json-web-tokens&logoColor=ffffff&labelColor=000000)
-![Material-UI](https://img.shields.io/badge/-Material%20UI-000000?style=flat&logo=Material%20UI&logoColor=ffffff&labelColor=0081CB)
+![](https://img.shields.io/badge/-MS%20Automations-000000?style=flat&logo=microsoftexcel&logoColor=2088FF&labelColor=ffffff)
+![](https://img.shields.io/badge/-NN%20Implementation-000000?style=flat&logo=json-web-tokens&logoColor=ffffff&labelColor=000000)
+![](https://img.shields.io/badge/-Matlab%20Simulation%20Creation-000000?style=flat&logoColor=ffffff&labelColor=0081CB)
 
 
 🤓 **Interested:** <br>
 
-![React Native](https://img.shields.io/badge/-React%20Native-000000?style=flat&logo=react&labelColor=000000)
-![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=PHP&logoColor=5466b8&labelColor=ffffff)
-![WordPress](https://img.shields.io/badge/-WordPress-000000?style=flat&logo=wordpress&labelColor=21759B)
-![Laravel](https://img.shields.io/badge/-Laravel-000000?style=flat&logo=laravel&logoColor=ffffff&labelColor=FF2D20)
+![](https://img.shields.io/badge/-NN%20On%20C++-000000?style=flat&logo=json-web-tokens&labelColor=000000)
+![](https://img.shields.io/badge/-LaTeX-000000?style=flat&logo=latex&logoColor=5466b8&labelColor=ffffff)
+![](https://img.shields.io/badge/-Neural%20Engineering-000000?style=flat&labelColor=21759B)
+![](https://img.shields.io/badge/-Matlab%20Apps-000000?style=flat&logoColor=ffffff&labelColor=FF2D20)
 
+<a href="https://github.com/PRigas96/Profile-Readme-WakaTime"><img src="https://github.com/PRigas96/PRigas96/blob/main/images/stat.svg" alt="PRigas96 WakaTime Activity" align=center/></a>
 
 <!-- ✅  **GitHub Extra Pins**
 
