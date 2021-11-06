@@ -75,7 +75,7 @@ Engineer specialized in **software and simulation development** using multiple *
 ![](https://img.shields.io/badge/-Neural%20Engineering-000000?style=flat&labelColor=21759B)
 ![](https://img.shields.io/badge/-Matlab%20Apps-000000?style=flat&logoColor=ffffff&labelColor=FF2D20)
 
-<img src="https://github.com/PRigas96/readme/blob/main/images/stat.svg"/>
+<img src="https://github.com/PRigas96/readme/blob/main/stat.svg"/>
 
 <!-- ✅  **GitHub Extra Pins**
 
