@@ -75,7 +75,7 @@ Engineer specialized in **software and simulation development** using multiple *
 ![](https://img.shields.io/badge/-Neural%20Engineering-000000?style=flat&labelColor=21759B)
 ![](https://img.shields.io/badge/-Matlab%20Apps-000000?style=flat&logoColor=ffffff&labelColor=FF2D20)
 
-<a href="https://github.com/PRigas96/Profile-Readme-WakaTime"><img src="https://github.com/PRigas96/PRigas96/blob/main/images/stat.svg" alt="PRigas96 WakaTime Activity" align=center/></a>
+<img src="https://github.com/PRigas96/readme/blob/main/images/stat.svg"/>
 
 <!-- ✅  **GitHub Extra Pins**
 
