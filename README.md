@@ -77,9 +77,9 @@ Engineer specialized in **software and simulation development** using multiple *
 
 📝 **Contact** <br>
 [![Mail](https://img.shields.io/badge/-Gmail-000000?logo=gmail)](mailto:prigas96@gmail.com)
-<!--
+ 
 <img src="https://github.com/PRigas96/readme/blob/main/stat.svg"/>
-
+<!--
  ✅  **GitHub Extra Pins**
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ahmad-sawalqeh&repo=my_resume)](https://github.com/ahmad-sawalqeh/my_resume) -->
