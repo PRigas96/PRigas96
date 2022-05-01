@@ -89,6 +89,6 @@ Engineer specialized in **software and simulation development** using multiple *
 <img style="border-radius: 5px; margin-bottom: 5px" alt="Github Contribution Stats" width="330px" height="240px" src="https://github-contribution-stats.vercel.app/api/?username=PRigas96" />
 <img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="320px" height="240px" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" />
 </p>
-<img src="https://github.com/PRigas96/readme/blob/main/stat.svg"/>
+
 
           
