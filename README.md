@@ -20,7 +20,7 @@ https://simpleicons.org/
 <!-- [![HitCount](http://hits.dwyl.com/Ahmad-Sawalqeh/Ahmad-Sawalqeh.svg)](http://hits.dwyl.com/Ahmad-Sawalqeh/Ahmad-Sawalqeh) -->
 <p align="center"><img src="dino.gif"/></p>
 <h2 align='center'><samp><strong>Hi There 👋, I am Panagiotis Rigas</strong></samp></h2>
-<h3 align='center'><strong><a href="https://prigas.pythonanywhere.com" target="_blank">Portfolio🌐</a></strong></h3>
+<h3 align='center'><strong><a href="https://h-prigas96.vercel.app/" target="_blank">Portfolio🌐</a></strong></h3>
 <p align='center'>EECS engineer | AI Apps | Neural engineer</p>
 
 <p align='left'> 📫 Passionate about learning more about tech and life. I love to design circuits and engineer solutions to real problems and ever since been a self taught software developer also unstopped learner. I have evolved into a Researcher career path, and love working with cutting edge tools and technologies.</p>
