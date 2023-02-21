@@ -65,16 +65,14 @@ Engineer specialized in **software and simulation development** using multiple *
 
 📚 **Working on:** <br>
 
-![](https://img.shields.io/badge/-MS%20Automations-000000?style=flat&logo=microsoftexcel&logoColor=2088FF&labelColor=ffffff)
 ![](https://img.shields.io/badge/-NN%20Implementation-000000?style=flat&logo=json-web-tokens&logoColor=ffffff&labelColor=000000)
 ![](https://img.shields.io/badge/-Matlab%20Simulation%20Creation-000000?style=flat&logoColor=ffffff&labelColor=0081CB)
 
 
 🤓 **Interested:** <br>
 
-![](https://img.shields.io/badge/-NN%20On%20C++-000000?style=flat&logo=json-web-tokens&labelColor=000000)
 ![](https://img.shields.io/badge/-LaTeX-000000?style=flat&logo=latex&logoColor=5466b8&labelColor=ffffff)
-![](https://img.shields.io/badge/-Neural%20Engineering-000000?style=flat&labelColor=21759B)
+![](https://img.shields.io/badge/-Deep%20Learning-000000?style=flat&labelColor=21759B)
 ![](https://img.shields.io/badge/-Matlab%20Apps-000000?style=flat&logoColor=ffffff&labelColor=FF2D20)
 
 📝 **Contact** <br>
