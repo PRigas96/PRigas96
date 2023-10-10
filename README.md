@@ -23,9 +23,7 @@ https://simpleicons.org/
 <h3 align='center'><strong><a href="https://h-prigas96.vercel.app/" target="_blank">Portfolio🌐</a></strong></h3>
 <p align='center'>EECS engineer | AI Apps | Neural engineer</p>
 
-<p align='left'> 📫 Passionate about learning more about tech and life. I love to design circuits and engineer solutions to real problems and ever since been a self taught software developer also unstopped learner. I have evolved into a Researcher career path, and love working with cutting edge tools and technologies.</p>
-
-Engineer specialized in **software and simulation development** using multiple **tools, frameworks and libraries** . I plan design and execute algorithms to create the best result possible.
+<p align='left'> 📫 Electrical and Computer Engineer with focus on AI, with deep learning.</p>
 
 💻 **Languages and Tools:** 🛠️<br>
 ![](https://img.shields.io/badge/MathWorks-Matlab/Simulink-159FF3)
