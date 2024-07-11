@@ -5,7 +5,7 @@ https://gist.github.com/rxaviers/7360908
 
 ## technologies Icons 
 https://simpleicons.org/
-
+<h3 align='center'><strong><a href="https://h-prigas96.vercel.app/" target="_blank">Portfolio🌐</a></strong></h3>
 
 📝 ***Feel free to contact me. I am always here ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/Ahmad-Sawalqeh?label=Follow%20Me&style=social)](https://github.com/Ahmad-Sawalqeh)
 <br>
@@ -20,10 +20,10 @@ https://simpleicons.org/
 <!-- [![HitCount](http://hits.dwyl.com/Ahmad-Sawalqeh/Ahmad-Sawalqeh.svg)](http://hits.dwyl.com/Ahmad-Sawalqeh/Ahmad-Sawalqeh) -->
 <p align="center"><img src="dino.gif"/></p>
 <h2 align='center'><samp><strong>Hi There 👋, I am Panagiotis Rigas</strong></samp></h2>
-<h3 align='center'><strong><a href="https://h-prigas96.vercel.app/" target="_blank">Portfolio🌐</a></strong></h3>
-<p align='center'>EECS engineer | AI Apps | Neural engineer</p>
 
-<p align='left'> 📫 Electrical and Computer Engineer with focus on AI, with deep learning.</p>
+<p align='center'> PhD Student @ Di UoA | EECS engineer </p>
+
+<p align='left'> 📫 PhD Student focused on Geometric and Self-Supervised Learning.</p>
 
 💻 **Languages and Tools:** 🛠️<br>
 ![](https://img.shields.io/badge/MathWorks-Matlab/Simulink-159FF3)
