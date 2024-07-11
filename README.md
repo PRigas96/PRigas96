@@ -50,7 +50,7 @@ https://simpleicons.org/
  
 🧐 **Knowledge of:**<br>
 
-`Microwave Apps` `Power Electronics` `Electromagnetic Simulation` `Neural Networks` `Python Automation`
+`Pytorch` `AI for Science / Image, Text, 3D`
 
 
 🌍 **Deployment platforms:**<br>
