@@ -32,12 +32,13 @@ https://simpleicons.org/
 [![Codepen](https://img.shields.io/badge/Codewars-Ahmad%20Sawalqeh-maroon?logo=codewars&logoColor=maroon&labelColor=black)](https://www.codewars.com/users/Ahmad-Sawalqeh)
 <!-- [![HitCount](http://hits.dwyl.com/Ahmad-Sawalqeh/Ahmad-Sawalqeh.svg)](http://hits.dwyl.com/Ahmad-Sawalqeh/Ahmad-Sawalqeh) -->
 <p align="center"><img src="dino.gif"/></p>
+<!--
 <h2 align='center'><samp><strong>Hi There 👋, I am Panagiotis Rigas</strong></samp></h2>
-
+<!--
 <p align='center'> PhD Student @ Di UoA | EECS engineer </p>
-
+<!--
 <p align='left'> 📫 PhD Student focused on Geometric and Self-Supervised Learning.</p>
-
+<!--
 💻 **Languages and Tools:** 🛠️<br>
 ![](https://img.shields.io/badge/-PyTorch-purple?logo=Pytorch)
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&labelColor=007ACC)
@@ -48,7 +49,7 @@ https://simpleicons.org/
 ![](https://img.shields.io/badge/-GoogleColab-grey?logo=GoogleColab)
 ![](https://img.shields.io/badge/-Python-FFD03D?logo=python)
 ![](https://img.shields.io/badge/-TF-9FA7A0?logo=tensorflow)
-
+<!--
 ![](https://img.shields.io/badge/-C++-00599C?logo=cplusplus)
 ![](https://img.shields.io/badge/-C-283593?logo=c)
 ![](https://img.shields.io/badge/Keysight-ADS-E90029)
@@ -57,7 +58,7 @@ https://simpleicons.org/
 ![](https://img.shields.io/badge/-Google%20Drive-FFFFFF?logo=google-drive)
 
 
- 
+<!-- 
 🧐 **Knowledge of:**<br>
 
 `Pytorch` `AI for Science / Image, Text, 3D`
@@ -70,7 +71,7 @@ https://simpleicons.org/
 🚩 **Highlights:** <br>
 &nbsp;<img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' style="margin-top: 10px;" width="20px" height="20px">&nbsp;&nbsp;&nbsp;<span>Arctic Code Vault Contributor</span>
 -->
-
+<!--
 📚 **Working on:** <br>
 
 ![](https://img.shields.io/badge/-NN%20Implementation-000000?style=flat&logo=json-web-tokens&logoColor=ffffff&labelColor=000000)
@@ -85,11 +86,11 @@ https://simpleicons.org/
 [![Mail](https://img.shields.io/badge/-Gmail-000000?logo=gmail)](mailto:prigas96@gmail.com)
  
 
-<!--
+
  ✅  **GitHub Extra Pins**
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ahmad-sawalqeh&repo=my_resume)](https://github.com/ahmad-sawalqeh/my_resume) -->
-
+<!--
 </br>
 <p style="display: flex; justify-contect: space-between;">
 <img style="border-radius: 5px; margin-bottom: 5px" alt="Github Contribution Stats" width="330px" height="240px" src="https://github-contribution-stats.vercel.app/api/?username=PRigas96" />
